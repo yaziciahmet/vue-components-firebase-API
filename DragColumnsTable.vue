@@ -1,4 +1,7 @@
 <!-- A table where the columns are exchangable both visually and datawise by simple drag and drop action -->
+
+
+
 <template>
   <div class="row q-mt-xl">
     <div
